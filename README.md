@@ -1,5 +1,5 @@
 Example of using NodeJS to build a multiroom chat application.
-It works. This project is in Chapter 2 of this book: NodeJS In Action.
+It works. This project is in Chapter 2 of the book: NodeJS In Action.
 This uses nodeJS with modules MIME and Socket.IO to create a simple chat application.
 Usage:
 <ol>
