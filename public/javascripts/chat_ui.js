@@ -64,6 +64,10 @@ $(document).ready(function () {
         });
     });
 
+    setInterval(function () {
+        socket.emit('rooms');
+    }, 1000);
+
     $('#send-message').focus();
 
     $('#send-form').submit(function () {
