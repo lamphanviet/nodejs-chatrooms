@@ -8,4 +8,4 @@ Usage:
     <li>Run command "node server.js" to start server. Make sure you have nodejs installed.</li>
     <li>Open browser at "http://localthost:3000/" to start chatting. Open multiple tabs in the same browser to create multiple users/sockets.</li>
 </ol>
-![ScreenShot](https://github.com/lamphanviet/nodejs-chatrooms/blob/master/sample.PNG)
+![ScreenShot](https://raw.githubusercontent.com/lamphanviet/nodejs-chatrooms/master/sample.PNG)
